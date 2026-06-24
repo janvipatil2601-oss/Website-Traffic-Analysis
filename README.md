@@ -7,37 +7,37 @@ The objective of this project is to analyze website traffic data using Python an
 
 ## Process
 ### Step 1: Data Collection
-•	Import the website traffic dataset into Jupyter Notebook.
-•	Review the dataset structure and understand the business requirements.
-•	Examine the columns, data types, and key metrics available for analysis.
+-Import the website traffic dataset into Jupyter Notebook.
+-Review the dataset structure and understand the business requirements.
+-Examine the columns, data types, and key metrics available for analysis.
 ### Step 2: Exploratory Data Analysis (EDA)
-•	Analyze the distribution of sessions, users, and revenue.
-•	Explore relationships among different variables.
-•	Generate summary statistics to understand data patterns.
-•	Identify trends and anomalies in the dataset.
+-Analyze the distribution of sessions, users, and revenue.
+-Explore relationships among different variables.
+-Generate summary statistics to understand data patterns.
+-Identify trends and anomalies in the dataset.
 ### Step 3: Data Analysis
-•	Identify top traffic sources.
-•	Analyze user engagement metrics such as bounce rate, session duration, and pages per session.
-•	Evaluate conversion rates and goal completions.
-•	Identify high-performing and low-performing pages.
+-Identify top traffic sources.
+-Analyze user engagement metrics such as bounce rate, session duration, and pages per session.
+-Evaluate conversion rates and goal completions.
+-Identify high-performing and low-performing pages.
 ### Step 4: Data Visualization
 Create visualizations such as:
-•	Bar Charts
-•	Pie Charts
+-Bar Charts
+-Pie Charts
 ### Step 7: Insight Generation
-•	Identify business opportunities.
-•	Discover areas requiring improvement.
-•	Provide recommendations to improve website traffic, user engagement, and conversions.
+-Identify business opportunities.
+-Discover areas requiring improvement.
+-Provide recommendations to improve website traffic, user engagement, and conversions.
 
 ## Tools and Technologies Used
 ### Software
-•	Jupyter Notebook
-•	Python
+-Jupyter Notebook
+-Python
 ### Python Libraries
-•	Pandas – Data manipulation and analysis
-•	NumPy – Numerical operations
-•	Matplotlib – Data visualization
-•	Seaborn – Statistical visualization
+-Pandas – Data manipulation and analysis
+-NumPy – Numerical operations
+-Matplotlib – Data visualization
+-Seaborn – Statistical visualization
 
 ## Code
 -<a href="https://github.com/janvipatil2601-oss/Website-Traffic-Analysis/blob/main/Website%20Traffic%20Project.ipynb"> Code </a>
@@ -54,5 +54,9 @@ The chart shows that users from all traffic sources are highly engaged with the 
 The chart shows that Referral traffic generates the highest number of conversions, making it the best-performing traffic source. Paid, Organic, and Social traffic also contribute a high number of conversions. On the other hand, Direct traffic has the lowest conversions compared to other sources. Overall, all traffic sources generate a strong number of conversions, indicating good website performance across channels.
 ### 4. High and Low Performing Pages
 The chart shows that the Contact page is the top landing page, attracting the highest number of visitors. The Services, Home, and Products pages also receive a large amount of traffic, showing strong user interest. On the other hand, the Blog page has the lowest traffic among the top landing pages. Overall, all landing pages receive a high number of visits, indicating good website visibility and user engagement.
+
+## Final Conclusion
+The website is performing well across all traffic sources, with Referral and Social traffic showing the best performance in terms of engagement and conversions. The Contact, Services, and Home pages attract the most visitors, indicating strong user interest in these pages. Traffic is evenly distributed across all channels, which reduces dependence on a single source. Overall, the website has good user engagement, strong conversion performance, and balanced traffic sources, but improving Organic and Paid traffic strategies could further increase website performance and conversions.
+
 
 
