@@ -45,3 +45,14 @@ Create visualizations such as:
 ## Dashboard
 ![Screenshot(495)](https://github.com/janvipatil2601-oss/Website-Traffic-Analysis/blob/main/Screenshot%202026-06-23%20220211.png))
 
+## Project Insight
+### 1. Identify Top Traffic Sources
+The chart shows that Referral traffic contributes the highest share of website traffic (17.3%), followed closely by Social traffic (17.0%). Organic, Paid, and Email traffic contribute almost equally to the total traffic. Direct traffic has the lowest share (15.7%). Overall, the website receives traffic evenly from all sources, indicating a well-balanced traffic distribution.
+### 2. User Engagement Analysis
+The chart shows that users from all traffic sources are highly engaged with the website. Visitors coming through Referral sources spend the most time on the website, while users from Social media visit slightly more pages than others. Although Organic and Paid traffic have slightly lower engagement, the difference is very small. Overall, the website provides a consistent user experience across all traffic sources.
+### 3. Conversion Rate and Goal Completions
+The chart shows that Referral traffic generates the highest number of conversions, making it the best-performing traffic source. Paid, Organic, and Social traffic also contribute a high number of conversions. On the other hand, Direct traffic has the lowest conversions compared to other sources. Overall, all traffic sources generate a strong number of conversions, indicating good website performance across channels.
+### 4. High and Low Performing Pages
+The chart shows that the Contact page is the top landing page, attracting the highest number of visitors. The Services, Home, and Products pages also receive a large amount of traffic, showing strong user interest. On the other hand, the Blog page has the lowest traffic among the top landing pages. Overall, all landing pages receive a high number of visits, indicating good website visibility and user engagement.
+
+
