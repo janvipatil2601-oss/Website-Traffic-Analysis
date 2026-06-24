@@ -43,5 +43,5 @@ Create visualizations such as:
 -<a href="https://github.com/janvipatil2601-oss/Website-Traffic-Analysis/blob/main/Website%20Traffic%20Project.ipynb"> Code </a>
 
 ## Dashboard
-![Screenshot(495)](Screenshot 2026-06-23 220211)
+![Screenshot(495)](https://github.com/janvipatil2601-oss/Website-Traffic-Analysis/blob/main/Screenshot%202026-06-23%20220211.png))
 
